@@ -1,5 +1,3 @@
-//odd only
-
 import java.util.ArrayList;
 import java.util.List;
 
