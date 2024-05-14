@@ -7,8 +7,8 @@ public class Exercises46List2Array{
         List<String> strs2 = Arrays.asList("as", "df", "jk");
         List<String> strs3 = Arrays.asList("aaa", "bbb", "ccc", "ddd");
         System.out.println("Array 1: " + Arrays.toString(list2Array(strs1)));
-        System.out.println("Array 1: " + Arrays.toString(list2Array(strs2)));
-        System.out.println("Array 1: " + Arrays.toString(list2Array(strs3)));
+        System.out.println("Array 2: " + Arrays.toString(list2Array(strs2)));
+        System.out.println("Array 3: " + Arrays.toString(list2Array(strs3)));
     }
 
     static String[] list2Array(List<String> strs){
